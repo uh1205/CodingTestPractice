@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-// 2501번 약수 구하기 문제 : 모범 답안
+// 2501번 약수 구하기 : 모범 코드
 public class DivisorAnswer {
 
     public static void main(String[] args) throws IOException {
