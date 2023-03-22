@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-// 2501번 약수 구하기 문제
+// 2501번 약수 구하기 문제 : 스스로 생각한 코드
 public class Divisor {
 
     public static void main(String[] args) throws IOException {
